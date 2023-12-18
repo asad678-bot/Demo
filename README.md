@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Asad Mehmood, a passionate AI enthusiast and a beginner in the field. Currently on a journey to explore the fascinating world of Artificial Intelligence.
+I'm Asad Mehmood, a Passionate AI enthusiast and a beginner in the field. Currently on a journey to explore the fascinating world of Artificial Intelligence.
 
 - 🌱 I’m currently learning the basics of machine learning and deep learning.
 - 🔭 I’m working on small AI projects to apply theoretical concepts and gain hands-on experience.
